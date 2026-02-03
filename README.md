@@ -1,91 +1,75 @@
 # security-policy-dev
-Acceptable Use Standard: MopeTech Ai
-1. Overview
-This repository contains the official Acceptable Use Standard for MopeTech Ai. This document establishes the governance framework for the responsible use of company information, electronic devices, and network resources.
+MopeTech Ai IT Governance & Acceptable Use
+This repository contains the foundational policies and standards governing the use of information technology resources at MopeTech Ai. These documents are designed to protect both the organization and its employees from cyber risks, including ransomware and data breaches.
++2
+
+1. Acceptable Use Standard (AUP)
+The Acceptable Use Standard establishes a framework for the responsible use of all computing devices and network resources.
+
+Core Principles
+
+Property Ownership: All proprietary information stored on computing devices remains the sole property of MopeTech Ai.
 
 
-2. Purpose & Objective
-The primary objective of this standard is to protect MopeTech Ai and its employees from cybersecurity risks. By adhering to these rules, the organization mitigates exposure to:
+Access Requirements: Users may only access, use, or share proprietary information to the extent necessary to fulfill authorized job duties.
 
 
-Malware Attacks: Including viruses and ransomware.
+Reporting Responsibility: Employees must promptly report any theft, loss, or unauthorized disclosure of company information.
 
 
-Data Breaches: Compromise of sensitive network systems and services.
+Prohibited Activities: Strict prohibitions are in place against illegal acts, the introduction of malicious programs, and circumventing user authentication.
++2
+
+2. Email & Communication Management
+Proper email conduct ensures that MopeTech Ai maintains a professional and secure communication environment.
+
+Security & Professionalism
+
+Threat Awareness: Employees must use extreme caution when opening email attachments from unknown senders to prevent malware infections.
 
 
-Legal Liability: Issues arising from inappropriate resource use.
-
-3. Scope
-This policy applies to all employees, contractors, consultants, and third-party workers. It covers:
+Representing the Company: Users must realize they represent the company when using internal resources to access the internet.
 
 
-All equipment owned or leased by MopeTech Ai.
-
-Personal devices used to interact with internal business systems.
-
-All network resources used to conduct company business.
-
-4. Key Security Safeguards
-Data Ownership and Usage
-All proprietary information stored on electronic devices remains the sole property of MopeTech Ai.
-
-Information may only be accessed or shared as necessary to fulfill assigned job duties.
-
-Users must promptly report the theft, loss, or unauthorized disclosure of company information.
-
-System Access & Passwords
-Device passwords must comply with the established Password Policy.
-
-Sharing account passwords or providing unauthorized individuals access to company accounts is strictly prohibited.
+Personal Opinions: Any postings from a company email address to public platforms must include a disclaimer stating that opinions expressed are strictly those of the individual.
 
 
-Computing devices must be secured with a password-protected lock screen set to activate in 10 minutes or less.
+Prohibited Communication: Harassment, sending unsolicited "spam," forging email headers, and forwarding chain letters are strictly forbidden.
++1
 
-Monitoring and Auditing
-Authorized personnel may monitor equipment, systems, and network traffic at any time to maintain security.
+3. Mobile Device Management (MDM)
+This section outlines the standards for mobile and computing devices connecting to the internal MopeTech Ai network.
 
-MopeTech Ai reserves the right to perform periodic audits to ensure policy compliance.
+Device Security Standards
 
-5. Prohibited Activities
-The following activities are strictly prohibited for all users:
-
-
-Illegal Acts: Engaging in any activity that is illegal under local, state, federal, or international law.
+Network Compliance: All mobile devices must comply with the Minimum Access Policy before connecting to the internal network.
 
 
-Security Breaches: Accessing data of which the employee is not the intended recipient or circumventing user authentication.
+Lock Screen Requirements: All devices must be secured with a password-protected lock screen.
 
 
-
-Network Disruptions: Activities such as network sniffing, ping floods, denial of service (DoS), or unauthorized port scanning.
-
+Auto-Lock Timer: The automatic activation feature for lock screens must be set to 10 minutes or less.
 
 
-Communication Misconduct: Sending unsolicited "spam" email, harassment via any electronic platform, or forging email header information.
-
-6. Social Media & Blogging
-Blogging or social media use must be conducted in a professional manner that does not harm the reputation of MopeTech Ai.
+Physical Security: Users are required to manually lock their screens or log off whenever a device is left unattended.
 
 
-Users must include a disclaimer stating that opinions expressed are their own and do not necessarily represent the company.
+Password Integrity: Device passwords must comply with the organization's Password Policy.
+
+4. Policy Compliance & Sanctions
+Failure to adhere to these standards may result in disciplinary action.
 
 
-Revealing company trade secrets or confidential information on any public platform is prohibited.
-
-7. Policy Enforcement
-Non-compliance with this standard may lead to disciplinary action. Sanctions are based on the severity of the breach and may include:
-
-Mandatory refresher training.
-
-Temporary suspension of remote access privileges.
-
-Termination of employment or contractual obligations.
-
-Legal consequences for activities involving illegal acts.
+Audit Rights: MopeTech Ai reserves the right to audit networks and monitor system traffic at any time to ensure compliance.
 
 
-Standard Owner: Rukayat Mopelola Lawal 
+Consequences: Sanctions for violations range from mandatory refresher training and written warnings to the termination of employment.
 
 
-Last Updated: February, 2026
+Legal Action: Illegal activities conducted on company resources may lead to legal consequences under applicable laws.
+
+
+Document Owner: Rukayat Mopelola Lawal 
+
+
+Last Updated: February 2026
