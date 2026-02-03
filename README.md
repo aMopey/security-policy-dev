@@ -1,4 +1,4 @@
-# MopeTech Ai IT Governance & Acceptable Use
+# MopeTech AI IT Governance & Acceptable Use
 
 
 
